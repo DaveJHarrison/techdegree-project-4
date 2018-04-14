@@ -1,1 +1,1 @@
-# techdegree-project-4
+New repository for Treehouse Techdegree Project 4 - Interactive Photo Gallery
